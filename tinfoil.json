@@ -3,6 +3,7 @@
         {"url": "https://nx.ghostland.at", "title": "Ghost eShop", "action": "add"},
         {"url": "https://nx-retro.ghostland.at", "title": "Ghost eShop RETRO", "action": "add"},
         {"url": "https://nx-saves.ghostland.at", "title": "NX Shared Saves", "action": "add"},
+        {"url": "http://world:digital@free.worldigital-brasil.com:8080", "title": "worldigital", "action": "add"},
         {"url": "https://tinfoil.ultranx.ru/tinfoil", "title": "UltraNX", "action": "add"}
     ]
 }
